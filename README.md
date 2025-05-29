@@ -1,8 +1,4 @@
-Here’s a detailed `README.md` file in proper GitHub Markdown format, suitable for a **Space Communication Security Project** using the latest advanced technologies.
 
----
-
-```markdown
 # Space Communication Security System
 
 ## Overview
